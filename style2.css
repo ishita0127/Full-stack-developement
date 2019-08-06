@@ -1,0 +1,24 @@
+body{
+	background-color: #967bb6;
+}
+
+h1{
+	color: #ffffff;
+	text-align: center;
+}
+
+.square{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin:auto;
+	font-size: 50px;
+	text-align: center;
+	
+}
+
+#circle{
+	color: red;
+	font-size: 50px;
+
+}
